@@ -1,4 +1,4 @@
-#10 {string s| s doesn't contains substring 10 } 
+#9 {string s| s contains substring 10 } 
 
 NFA ScreenShot and Test Run
 ![NFA Image](images/9.jpg)
